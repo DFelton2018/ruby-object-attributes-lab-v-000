@@ -15,3 +15,4 @@ def breed
   "#{@breed}".strip
 end
 end
+end
