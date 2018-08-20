@@ -7,7 +7,7 @@ end
 def name
   "#{@name}".strip
   
-def breed = (breed)
+def breed=(breed)
   @breed = breed
 end
   
