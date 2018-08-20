@@ -9,5 +9,9 @@ def name
   @name 
 end
 
-deg
+def breed
+  @breed
+end
+
+end
 
